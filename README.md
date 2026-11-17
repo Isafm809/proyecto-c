@@ -64,3 +64,7 @@ V |V  |F
 V | F | V
 F | V | V
 F | F | F
+
+
+# Emojis
+:cherry_blossom: :bubbles: :strawberry:

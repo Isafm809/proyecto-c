@@ -44,7 +44,7 @@ Esta es una lista con varios niveles de sangrado: las lunas de los planetas
 
 
 # Lista de chequeo: como obtener el pasaporte
-- [ ] Sacar la cita
+- [x] Sacar la cita
 - [ ] Pagar los derechos
 - [ ] Ir a la oficina a la cita
 - [ ] Esperar a que expidan el pasaporte

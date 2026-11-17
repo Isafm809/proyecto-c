@@ -14,3 +14,30 @@ Esto es texto **en negrillas**
 Esto también es texto __en negrillas__
 
 Y *se pueden __combinar__ de esta manera*
+
+
+
+
+Esta es una lista de colores:
+* Rojo
+* Verde
+* Naranja
+* Rosa
+
+Esta es una lista numerada:
+1. Fiat
+2. Volvio
+3. Renault
+4. Mazda
+
+Esta es una lista con varios niveles de sangrado: las lunas de los planetas
+
+* Tierra
+  * Luna
+* Jupiter
+  * Calisto
+  * Ganimedes
+  * Europa
+  * Io
+* Saturno
+  * Titán

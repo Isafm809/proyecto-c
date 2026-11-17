@@ -50,14 +50,17 @@ Esta es una lista con varios niveles de sangrado: las lunas de los planetas
 - [ ] Esperar a que expidan el pasaporte
 
 
-# Crear una tabla 
-A | B | A XOR B
---|---|--------
-V |V  |F
-
 
 
 Creación de una cita
 ObiWan Kenobi dijo:
 > La fuerza siempre esta contigo...
 > siempre
+
+# Crear una tabla 
+A | B | A XOR B
+--|---|--------
+V |V  |F
+V | F | V
+F | V | V
+F | F | F
